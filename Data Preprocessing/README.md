@@ -1,1 +1,2 @@
-# The provided data set is a test data set for the above pre-processing algorithm.
+# Preprocessing algorithm
+The provided dataset can be used as a test for the preprocessing algo.
