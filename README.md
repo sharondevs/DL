@@ -1,2 +1,2 @@
 # DL
-An experiment with DL models 
+An experiment with DNN models 
