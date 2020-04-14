@@ -1,7 +1,7 @@
 ## Disclaimer 
 # This model cannot be considered as an accurate measure for detecting the symptoms for covid-19. 
-The detection is trainied from the X-ray images of the covid-19. The dataset of the patients are 
-collected from the open-source repo, attached along with the README. Again, I hold no liability 
+The detector is trainied on the X-ray images of the covid-19. The dataset of the patients are 
+collected from the open-source repo, ref with the README. Again, I hold no liability 
 for the correctness and accuracy of the model. This is a purely experimental attempt from my side, 
 to show how deep learning technology can revolutionarize the way we detect disease in the future.
 
