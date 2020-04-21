@@ -8,7 +8,7 @@ This model can also be applied to other real world problems, because of its uniq
 Its advisable to run all the models on CUDA, and pytorch also supports CUDA acceleration.
 The configurations of the image that needs to be input to the model is given in the objectdetection.py code 
 which is in accordance with the image configurations with which the model was trained.
-This shows that DNN can actually be very robust when used along with SSD, than the openvc and other framworks.
+This shows that DNN can actually be very robust when used along with SSD, than other frameworks like opencv and algorithms like R-CNN and YOLO.
 The video clips used for detection is attached along with the repository.
 
 Datasets available at : http://host.robots.ox.ac.uk/pascal/VOC/
