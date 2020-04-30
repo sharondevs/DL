@@ -1,6 +1,6 @@
 ## Chatbot Implementation on tensorflow 1.0.0
 
-This is a sample implementation of a state-of-the-art chatbot model, to be trained on the cornell movie
+This is a sample implementation of a state-of-the-art chatbot Seq-Seq model, to be trained on the cornell movie
 dialog dataset. The dataset can also be taken from more sources like the twitter and reddit dataset,
 which are readyly available on the internet. The chatbot is based on Deep NLP, having RNN network for both 
 encoder and the decoder implementation. The implementation is given in the chatbot.py file in the repo.
