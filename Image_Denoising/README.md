@@ -12,7 +12,8 @@ to the original image data, which is called the bottleneck, which forms the comp
 this and then upscales this to give the predicted image. The output image dimention would be the same as that 
 of the input image data.
 
-Encoder - h(x) = sigmoid(W*x + b) 
+Encoder - h(x) = sigmoid(W*x + b)
+ 
 Decoder - x^ = sigmoid(W*h(X) + c)
 
 The model is build on Tensorflow 2.0 framework. The initial testing with 10 epochs seems to give good results, 
