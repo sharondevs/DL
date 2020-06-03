@@ -22,5 +22,6 @@ The dataset taken was the tensorflow fashion dataset.
 
 Visualizing the dataset: ![](samples/visualizing_subplot.png)
 The Autoencoder gives the following results after training: ![](samples/output_predictions.png)
-The first row is the data with noise, while the second row is the cleaned predicted data by the model
-The performance of the model can be increased by training with more epochs.
+The first row is the data with noise, while the second row is the cleaned predicted data by the model.
+
+Note: The performance of the model can be increased by training with more epochs.
