@@ -19,5 +19,8 @@ Decoder - x^ = sigmoid(W*h(X) + c)
 The model is build on Tensorflow 2.0 framework. The initial testing with 10 epochs seems to give good results, 
 though we can further improve the predicted image quality with more training.   
 The dataset taken was the tensorflow fashion dataset. 
+
 Visualizing the dataset: ![](samples/visualizing_subplot.png)
 The Autoencoder gives the following results after training: ![](samples/output_predictions.png)
+The first row is the data with noise, while the second row is the cleaned predicted data by the model
+The performance of the model can be increased by training with more epochs.
